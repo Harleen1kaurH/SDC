@@ -1,18 +1,18 @@
 # WEBPAGE LEARNINGS ON EXP.GNDEC.AC.IN
-## HOW TO OPEN AND CREATE WEBPAGE?
+## HOW TO CREATE AND OPEN WEBPAGE?
 1. Login to exp.gndec.ac.in
-2. Awitch to desk
+2. Switch to desk
 3. Under the public section, go to website and open "webpage"
-4. To add a new webpage, click on add webpage button on upper right corne right button
+4. To add a new webpage, click on add webpage button on upper right corner
 5. Specify the title of webpage, content type and start to add rows
 6. For each specified row select web template depending on requirement
 7. Edit values and submit the new values
-8. Save the webpage and one can view it
+8. Save the webpage and one can easily view it
 
 ## EDITTING WEPAGE TEMPLATE
 * *Container* 
-* *Space at top* : used to give space at top in wepage before content starts
-* *Space at bottom* : used to give space at bottom in wepage after content ends
+* *Space at top* : used to give space at top of wepage before content starts
+* *Space at bottom* : used to give space at bottom of wepage after content ends
 * *Border at top* : used to give border line at top
 * *Border at top* : used to give border line at top
 * *Border at bottom* : used to give border line at bottom
@@ -21,7 +21,7 @@
 * *Add Background images* :Used to add background image
 
 ## VARIOUS WEB TEMPLATES 
-
+<pre>
 >## SECTION WITH COLLAPSIBLE CONTENTS
 >It has collapsible contents
 > ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(270).png)
@@ -39,8 +39,8 @@
 
 >## DISCUSSIONS
 >It is section of website meant for viewers ideas and point of view. On can customise it for
->*single thread
->*muktple thread 
+> 1.single thread
+> 2.muktple thread
 > ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(274).png)
 
 
@@ -73,5 +73,7 @@
 >![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(278).png)
 
 
-## COVER IMAGE 
-
+>## COVER IMAGE 
+>This is used as cover page of website
+>![img](https://github.com/Harleen1kaurH/SDC/blob/main/shutterstock-709918504.webp)
+</pre>
