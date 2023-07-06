@@ -25,7 +25,7 @@
 >## SECTION WITH COLLAPSIBLE CONTENTS
 >It has collapsible contents
 > ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(270).png)
-\\
+<br/><br/>
 
 
 >## SECTION WITH CARDS
