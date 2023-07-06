@@ -12,51 +12,11 @@ In this digital era, the knowledge of programming is essential to bring innovati
 ## VARIABLES AND OPERATORS
 1. Arithmetic operators: Used for performing arithmetic operations
 
-Operators
 
-Description
+2.Relational operators: Also known as comparison operators, are used to compare values. Result of a relational expression is always either true or false.
 
-+  Addition
 
--  Subtraction
-
-*  Multiplication
-
-/  Division
-
-%  Modulus
-
-<BR>Relational operators: Also known as comparison operators, are used to compare values. Result of a relational expression is always either true or false.
-
-Operators
-
-Description
-
-==    Equal to
-
-<     Less than
-
->     Greater than
-
-<=    Less than or equal to
-
->=    Greater than or equal to
-
-!=    Not equal to<BR>
 3.Logical operators are used to combine one or more relational expressions.
-
-Operators
-
-Description
-
-AND
-Result will be true, if both the expressions are true. If any one or both the expressions are false, the result will be false
-
-OR
-Result will be true, even if one of the expression is true. If both the expressions are false, the result will be false
-
-NOT
-If the expression is true, result will be false and vice versa<BR>
 
  
 ## PYTHON PROGRAMMING LANGUAGE FAMILARITY
@@ -65,20 +25,23 @@ If the expression is true, result will be false and vice versa<BR>
 Websites that use
 Yahoo Groups, Nokia, CIA  
 
-## DATATYPES
+## DATATYPES AND CONVERSION
+
+There are two types of conversions of datatype:
+1. Implicit Conversion: the datatype itself get converted into other datatype without any external interference
+2. Explicit Conversion: the datatype is deliberately converted to other datatype using statements like int(2.0) etc. 
 
 
-
-## VARIABLES AND THEIR CONVERSION
+## VARIABLES
 A variable is a name that is assigned to a value. It is done so that we can refer to that value at some later point in the program.
 
 Let us see the usage of values and variables in a program.
 
 During input, we receive values and assign them to variables.
 During processing, we perform operations on values and variables to generate more values. These computed values are also assigned to variables.
-During output, we display the computed values in variables to the end users.</P>
+During output, we display the computed values in variables to the end users.
 
-## CODING STANDARDS</H2
+## CODING STANDARDS
 
 Coding standards are the set of guidelines that can be used to enhance the readability and clarity of the program and make it easy to debug and maintain the program.
 
