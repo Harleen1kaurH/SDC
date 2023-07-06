@@ -21,10 +21,11 @@
 * *Add Background images* :Used to add background image
 
 ## VARIOUS WEB TEMPLATES 
-<pre>
+
 >## SECTION WITH COLLAPSIBLE CONTENTS
 >It has collapsible contents
 > ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(270).png)
+\n
 
 
 >## SECTION WITH CARDS
