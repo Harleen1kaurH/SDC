@@ -74,3 +74,7 @@
 >This is used as cover page of website
 >![img](https://github.com/Harleen1kaurH/SDC/blob/main/shutterstock-709918504.webp)
 
+
+## Sample Website
+>![link](https://exp.gndec.ac.in/harleen1st)
+
