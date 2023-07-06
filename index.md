@@ -69,6 +69,8 @@ Yahoo Groups, Nokia, CIA
 (![image](https://github.com/Harleen1kaurH/SDC/assets/115682833/ae1b7c11-71f1-4940-852d-07dbb2de084f)
 )
 
+(![image](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(11).png))
+
 ## VARIABLES AND THEIR CONVERSION
 A variable is a name that is assigned to a value. It is done so that we can refer to that value at some later point in the program.
 
