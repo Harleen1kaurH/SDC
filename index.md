@@ -63,10 +63,10 @@ If the expression is true, result will be false and vice versa<BR>
 
 ### Interpreted
 Websites that use
-Yahoo Groups, Nokia, CIA
+Yahoo Groups, Nokia, CIA  
 
 ## DATATYPES
-![imgss](Screenshot(1).png)
+![imgss](Screenshot (1).png)
 
 ## VARIABLES AND THEIR CONVERSION
 A variable is a name that is assigned to a value. It is done so that we can refer to that value at some later point in the program.
