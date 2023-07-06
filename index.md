@@ -4,10 +4,10 @@
 In this digital era, the knowledge of programming is essential to bring innovation and change. To create value with your own ideas you need know coding. Programming has become basic literacy for the 21st century.
   
 ## ALGORITHM AND REPRESENTATIONS
-<p>Algorithm should be represented from the mental thoughts into a form which others can understand. There are primarily two ways of representing an algorithm:<br>
-
-Flow chart: Diagrammatic way of representing the algorithm.
-Pseudo-code: Representing the algorithm between a program and normal English.</p>
+>Algorithm should be represented from the mental thoughts into a form which others can understand. There are primarily two ways of representing an algorithm:
+>
+>>Flow chart: Diagrammatic way of representing the algorithm.
+>>Pseudo-code: Representing the algorithm between a program and normal English.</p>
 
 ## VARIABLES AND OPERATORS
 1. Arithmetic operators: Used for performing arithmetic operations
