@@ -67,6 +67,9 @@ Yahoo Groups, Nokia, CIA
 
 ## DATATYPES
 
+    ![Tux, the Linux mascot](C:\Users\Harleen Kaur Hans\Pictures\Screenshots\Screenshot (64).png)
+
+
 ## VARIABLES AND THEIR CONVERSION
 A variable is a name that is assigned to a value. It is done so that we can refer to that value at some later point in the program.
 
