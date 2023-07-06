@@ -22,59 +22,55 @@
 
 ## VARIOUS WEB TEMPLATES 
 
->## SECTION WITH COLLAPSIBLE CONTENTS
+## SECTION WITH COLLAPSIBLE CONTENTS
 >It has collapsible contents
 > ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(270).png)
-<br/><br/>
 
 
->## SECTION WITH CARDS
+## SECTION WITH CARDS
 >It has various inbuilt cards, each one used to address a particular issue
 > ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(271).png)
-\\
 
->## SECTION WITH TABS
+## SECTION WITH TABS
 >It has various tabs that can be switched as per requirement , each tab containing particular infomation 
 > ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(272).png)
-\\
 
->## DISCUSSIONS
+
+## DISCUSSIONS
 >It is section of website meant for viewers ideas and point of view. On can customise it for
 > 1.single thread
 > 2.muktple thread
 > ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(274).png)
-\\
 
->## MARKDOWN
+## MARKDOWN
 >In this template contents of webpage is written using markdown.
 >![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(273).png)
-\\
 
->## SECTION WITH IMAGE GRIDS
+
+## SECTION WITH IMAGE GRIDS
 >we can present images using grids
 >![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(276).png)
-\\
 
->## SECTION WITH VIDEOS
+## SECTION WITH VIDEOS
 >It is used to present video in webpage 
-\\
 
->## SECTION WITH SMALL CTA
+
+## SECTION WITH SMALL CTA
 >This section consist of several small CTA's containing url's of other webpages
 >![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(275).png)
-\\
 
->## HERO
+
+## HERO
 >It is used to present title and subtitle
 >![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(277).png)
-\\
 
->## HERO SLIDER
+
+## HERO SLIDER
 >In this style of webpage, user can navigate through images using arrow buttons appearing on the left and right edge of the image. 
 >![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(278).png)
-\\
 
->## COVER IMAGE 
+
+## COVER IMAGE 
 >This is used as cover page of website
 >![img](https://github.com/Harleen1kaurH/SDC/blob/main/shutterstock-709918504.webp)
 
