@@ -22,40 +22,49 @@
 
 ## VARIOUS WEB TEMPLATES 
 
-### TITLE PAGE 
-
-### SECTION WITH COLLAPSIBLE CONTENTS 
+## SECTION WITH COLLAPSIBLE CONTENTS 
 ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(270).png)
 
-### SECTION WITH CARDS
+
+## SECTION WITH CARDS
 ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(271).png)
 
-### SECTION WITH TABS 
+
+## SECTION WITH TABS 
 ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(272).png)
 
-### DISCUSSIONS 
+
+## DISCUSSIONS 
 ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(274).png)
 
-### MARKDOWN
+
+## MARKDOWN
 ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(273).png)
 
-### SECTION WITH IMAGE GRIDS 
+
+## SECTION WITH IMAGE GRIDS 
 ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(276).png)
 
-### SECTION WITH TABS
+
+## SECTION WITH TABS
 ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(272).png)
 
-### SECTION WITH VIDEOS
+
+## SECTION WITH VIDEOS
+It consists of video in webpage
 
 
-### SECTION WITH SMALL CTA
+## SECTION WITH SMALL CTA
 ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(275).png)
 
-### HERO 
+
+## HERO 
 ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(277).png)
 
-### HERO SLIDER 
+
+## HERO SLIDER 
 ![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(278).png)
 
-### COVER IMAGE 
+
+## COVER IMAGE 
 
