@@ -66,7 +66,8 @@ Websites that use
 Yahoo Groups, Nokia, CIA  
 
 ## DATATYPES
-![imgss](Screenshot (1).png)
+(![image](https://github.com/Harleen1kaurH/SDC/assets/115682833/ae1b7c11-71f1-4940-852d-07dbb2de084f)
+)
 
 ## VARIABLES AND THEIR CONVERSION
 A variable is a name that is assigned to a value. It is done so that we can refer to that value at some later point in the program.
