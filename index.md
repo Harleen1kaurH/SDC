@@ -6,8 +6,8 @@ In this digital era, the knowledge of programming is essential to bring innovati
 ## ALGORITHM AND REPRESENTATIONS
 >Algorithm should be represented from the mental thoughts into a form which others can understand. There are primarily two ways of representing an algorithm:
 >
->>Flow chart: Diagrammatic way of representing the algorithm.
->>Pseudo-code: Representing the algorithm between a program and normal English.</p>
+>Flow chart: Diagrammatic way of representing the algorithm.
+>Pseudo-code: Representing the algorithm between a program and normal English.</p>
 
 ## VARIABLES AND OPERATORS
 1. Arithmetic operators: Used for performing arithmetic operations
