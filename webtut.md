@@ -1,4 +1,4 @@
-# WEBPAGE LEARNINGS ON EXP.GNDEC.AC.IN
+# WEBPAGE LEARNINGS TUT
 ## HOW TO CREATE AND OPEN WEBPAGE?
 1. Login to exp.gndec.ac.in
 2. Switch to desk
