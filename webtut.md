@@ -10,7 +10,7 @@
 8. Save the webpage and one can easily view it
 
 ## EDITTING WEPAGE TEMPLATE
->![img](https://github.com/Harleen1kaurH/SDC/blob/main/Screenshot%20(267).png)
+>![img](Screenshot%20(267).png)
 >* *Container* 
 >* *Space at top* : used to give space at top of wepage before content starts
 >* *Space at bottom* : used to give space at bottom of wepage after content ends
