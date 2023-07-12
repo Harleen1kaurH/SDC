@@ -25,7 +25,9 @@
 
 ## SECTION WITH COLLAPSIBLE CONTENTS
 >It has collapsible contents
-> ![img](Screenshot(270).png)
+>![img](Screenshot%20(270).png)
+
+> ![img](Screenshot%20(270).png)
 
 
 ## SECTION WITH CARDS
