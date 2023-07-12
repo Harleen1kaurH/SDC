@@ -10,16 +10,17 @@
 8. Save the webpage and one can easily view it
 
 ## EDITTING WEPAGE TEMPLATE
->![img](Screenshot%20(267).png)
->* *Container* 
->* *Space at top* : used to give space at top of wepage before content starts
->* *Space at bottom* : used to give space at bottom of wepage after content ends
->* *Border at top* : used to give border line at top
->* *Border at top* : used to give border line at top
->* *Border at bottom* : used to give border line at bottom
->* *Add grey background* : used to add grey background
->* *Hide block* : the webpage created is not visible
->* *Add Background images* :Used to add background image
+
+* *Container* 
+* *Space at top* : used to give space at top of wepage before content starts
+* *Space at bottom* : used to give space at bottom of wepage after content ends
+* *Border at top* : used to give border line at top
+* *Border at top* : used to give border line at top
+* *Border at bottom* : used to give border line at bottom
+* *Add grey background* : used to add grey background
+* *Hide block* : the webpage created is not visible
+* *Add Background images* :Used to add background image
+  >![img](Screenshot%20(267).png)
 
 ## VARIOUS WEB TEMPLATES 
 
