@@ -27,9 +27,6 @@
 >It has collapsible contents
 >![img](Screenshot%20(270).png)
 
-> ![img](Screenshot%20(270).png)
-
-
 ## SECTION WITH CARDS
 >It has various inbuilt cards, each one used to address a particular issue
 > ![img](Screenshot%20(271).png)
